@@ -2,8 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ffbf9c2e-12b8-469e-a7b3-d75306b55f7b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../currency-exchange-service/src/main/java/com/sushant/microservices/currencyexchangeservice/CurrencyExchangeController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../currency-exchange-service/src/main/java/com/sushant/microservices/currencyexchangeservice/ExchangeValue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../currency-exchange-service/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../currency-exchange-service/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../currency-exchange-service/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../currency-exchange-service/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../currency-exchange-service/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../currency-exchange-service/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../currency-exchange-service/src/main/java/com/sushant/microservices/currencyexchangeservice/CurrencyExchangeServiceApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../currency-exchange-service/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../currency-exchange-service/src/main/java/com/sushant/microservices/currencyexchangeservice/CurrencyExchangeController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../currency-exchange-service/src/main/java/com/sushant/microservices/currencyexchangeservice/CurrencyExchangeController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../currency-exchange-service/src/main/java/com/sushant/microservices/currencyexchangeservice/ExchangeValue.java" beforeDir="false" afterPath="$PROJECT_DIR$/../currency-exchange-service/src/main/java/com/sushant/microservices/currencyexchangeservice/ExchangeValue.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -47,6 +55,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
@@ -102,12 +111,22 @@
       <option name="presentableId" value="Default" />
       <updated>1596576769287</updated>
     </task>
+    <task id="LOCAL-00001" summary="added bootstrap to connect to config server">
+      <created>1597080732861</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1597080732861</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <ignored-roots>
       <path value="$PROJECT_DIR$" />
     </ignored-roots>
+    <MESSAGE value="added bootstrap to connect to config server" />
+    <option name="LAST_COMMIT_MESSAGE" value="added bootstrap to connect to config server" />
   </component>
   <component name="WindowStateProjectService">
     <state x="533" y="150" key="#com.intellij.ide.util.MemberChooser" timestamp="1596579938359">
@@ -115,30 +134,30 @@
     </state>
     <state x="533" y="150" key="#com.intellij.ide.util.MemberChooser/0.23.1440.821@0.23.1440.821" timestamp="1596579938359" />
     <state x="533" y="150" key="#com.intellij.ide.util.MemberChooser/0.23.1440.822@0.23.1440.822" timestamp="1596579541706" />
-    <state x="353" y="30" key="CommitChangelistDialog2" timestamp="1596582030217">
+    <state x="353" y="30" key="CommitChangelistDialog2" timestamp="1597080732615">
       <screen x="0" y="23" width="1440" height="821" />
     </state>
-    <state x="353" y="30" key="CommitChangelistDialog2/0.23.1440.821@0.23.1440.821" timestamp="1596582030217" />
+    <state x="353" y="30" key="CommitChangelistDialog2/0.23.1440.821@0.23.1440.821" timestamp="1597080732615" />
     <state x="353" y="30" key="CommitChangelistDialog2/0.23.1440.822@0.23.1440.822" timestamp="1596578813032" />
-    <state width="1358" height="194" key="GridCell.Tab.0.bottom" timestamp="1596640718286">
+    <state width="1358" height="194" key="GridCell.Tab.0.bottom" timestamp="1597080694327">
       <screen x="0" y="23" width="1440" height="821" />
     </state>
-    <state width="1358" height="194" key="GridCell.Tab.0.bottom/0.23.1440.821@0.23.1440.821" timestamp="1596640718286" />
+    <state width="1358" height="194" key="GridCell.Tab.0.bottom/0.23.1440.821@0.23.1440.821" timestamp="1597080694327" />
     <state width="1358" height="194" key="GridCell.Tab.0.bottom/0.23.1440.822@0.23.1440.822" timestamp="1596579609072" />
-    <state width="1358" height="194" key="GridCell.Tab.0.center" timestamp="1596640718286">
+    <state width="1358" height="194" key="GridCell.Tab.0.center" timestamp="1597080694326">
       <screen x="0" y="23" width="1440" height="821" />
     </state>
-    <state width="1358" height="194" key="GridCell.Tab.0.center/0.23.1440.821@0.23.1440.821" timestamp="1596640718286" />
+    <state width="1358" height="194" key="GridCell.Tab.0.center/0.23.1440.821@0.23.1440.821" timestamp="1597080694326" />
     <state width="1358" height="194" key="GridCell.Tab.0.center/0.23.1440.822@0.23.1440.822" timestamp="1596579609071" />
-    <state width="1358" height="194" key="GridCell.Tab.0.left" timestamp="1596640718285">
+    <state width="1358" height="194" key="GridCell.Tab.0.left" timestamp="1597080694325">
       <screen x="0" y="23" width="1440" height="821" />
     </state>
-    <state width="1358" height="194" key="GridCell.Tab.0.left/0.23.1440.821@0.23.1440.821" timestamp="1596640718285" />
+    <state width="1358" height="194" key="GridCell.Tab.0.left/0.23.1440.821@0.23.1440.821" timestamp="1597080694325" />
     <state width="1358" height="194" key="GridCell.Tab.0.left/0.23.1440.822@0.23.1440.822" timestamp="1596579609071" />
-    <state width="1358" height="194" key="GridCell.Tab.0.right" timestamp="1596640718286">
+    <state width="1358" height="194" key="GridCell.Tab.0.right" timestamp="1597080694327">
       <screen x="0" y="23" width="1440" height="821" />
     </state>
-    <state width="1358" height="194" key="GridCell.Tab.0.right/0.23.1440.821@0.23.1440.821" timestamp="1596640718286" />
+    <state width="1358" height="194" key="GridCell.Tab.0.right/0.23.1440.821@0.23.1440.821" timestamp="1597080694327" />
     <state width="1358" height="194" key="GridCell.Tab.0.right/0.23.1440.822@0.23.1440.822" timestamp="1596579609072" />
     <state x="144" y="88" key="MergeDialog" timestamp="1596582050851">
       <screen x="0" y="23" width="1440" height="821" />
@@ -148,15 +167,19 @@
       <screen x="0" y="23" width="1440" height="821" />
     </state>
     <state x="433" y="150" key="MultipleFileMergeDialog/0.23.1440.821@0.23.1440.821" timestamp="1596582052838" />
+    <state x="332" y="128" width="947" height="598" key="NewModule_or_Project.wizard" timestamp="1597352775888">
+      <screen x="0" y="23" width="1440" height="822" />
+    </state>
+    <state x="332" y="128" width="947" height="598" key="NewModule_or_Project.wizard/0.23.1440.822@0.23.1440.822" timestamp="1597352775888" />
     <state x="208" y="23" width="1024" height="821" key="SettingsEditor" timestamp="1596665305983">
       <screen x="0" y="23" width="1440" height="816" />
     </state>
     <state x="208" y="23" key="SettingsEditor/0.23.1440.816@0.23.1440.816" timestamp="1596665305983" />
     <state x="208" y="23" width="1024" height="821" key="SettingsEditor/0.23.1440.821@0.23.1440.821" timestamp="1596639881182" />
-    <state x="320" y="167" key="Vcs.Push.Dialog.v2" timestamp="1596580154081">
+    <state x="320" y="167" key="Vcs.Push.Dialog.v2" timestamp="1597080744544">
       <screen x="0" y="23" width="1440" height="821" />
     </state>
-    <state x="320" y="167" key="Vcs.Push.Dialog.v2/0.23.1440.821@0.23.1440.821" timestamp="1596580154081" />
+    <state x="320" y="167" key="Vcs.Push.Dialog.v2/0.23.1440.821@0.23.1440.821" timestamp="1597080744544" />
     <state x="399" y="259" key="com.intellij.ide.util.TipDialog" timestamp="1596582563716">
       <screen x="0" y="23" width="1440" height="821" />
     </state>
