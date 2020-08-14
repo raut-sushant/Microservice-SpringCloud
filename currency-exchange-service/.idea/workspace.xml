@@ -1,13 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d784d0a2-f8dd-46b6-8330-09cbf4b0ad1b" name="Default Changelist" comment="Currency Exchange Service">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/sushant/microservices/currencyexchangeservice/ExchangeValueRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/data.sql" afterDir="false" />
+    <list default="true" id="d784d0a2-f8dd-46b6-8330-09cbf4b0ad1b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../currency-conversion-service/src/main/java/com/sushant/microservices/currencyconversionservice/CurrencyConversionBean.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../currency-conversion-service/src/main/java/com/sushant/microservices/currencyconversionservice/CurrencyConversionController.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/sushant/microservices/currencyexchangeservice/CurrencyExchangeController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sushant/microservices/currencyexchangeservice/CurrencyExchangeController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/sushant/microservices/currencyexchangeservice/ExchangeValue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sushant/microservices/currencyexchangeservice/ExchangeValue.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../limits-service/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../limits-service/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -116,12 +113,20 @@
       <option name="project" value="LOCAL" />
       <updated>1597354395289</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Currency Exchange Service JPA">
+      <created>1597436286991</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1597436286991</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Currency Exchange Service" />
-    <option name="LAST_COMMIT_MESSAGE" value="Currency Exchange Service" />
+    <MESSAGE value="Currency Exchange Service JPA" />
+    <option name="LAST_COMMIT_MESSAGE" value="Currency Exchange Service JPA" />
   </component>
   <component name="WindowStateProjectService">
     <state x="184" y="89" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1597354274238">
@@ -132,10 +137,10 @@
       <screen x="0" y="23" width="1440" height="821" />
     </state>
     <state x="533" y="150" key="#com.intellij.ide.util.MemberChooser/0.23.1440.821@0.23.1440.821" timestamp="1597353944779" />
-    <state x="183" y="30" key="CommitChangelistDialog2" timestamp="1597354405461">
+    <state x="183" y="30" key="CommitChangelistDialog2" timestamp="1597436286754">
       <screen x="0" y="23" width="1440" height="821" />
     </state>
-    <state x="183" y="30" key="CommitChangelistDialog2/0.23.1440.821@0.23.1440.821" timestamp="1597354405461" />
+    <state x="183" y="30" key="CommitChangelistDialog2/0.23.1440.821@0.23.1440.821" timestamp="1597436286754" />
     <state width="460" height="466" key="DebuggerActiveHint" timestamp="1597434623117">
       <screen x="0" y="23" width="1440" height="821" />
     </state>
@@ -176,10 +181,10 @@
       <screen x="0" y="23" width="1440" height="821" />
     </state>
     <state x="258" y="89" key="Maven.ArtifactSearchDialog/0.23.1440.821@0.23.1440.821" timestamp="1597355088896" />
-    <state x="320" y="167" key="Vcs.Push.Dialog.v2" timestamp="1597354643755">
+    <state x="320" y="167" key="Vcs.Push.Dialog.v2" timestamp="1597436298161">
       <screen x="0" y="23" width="1440" height="821" />
     </state>
-    <state x="320" y="167" key="Vcs.Push.Dialog.v2/0.23.1440.821@0.23.1440.821" timestamp="1597354643755" />
+    <state x="320" y="167" key="Vcs.Push.Dialog.v2/0.23.1440.821@0.23.1440.821" timestamp="1597436298161" />
     <state width="700" height="384" key="XDebugger.FullValuePopup" timestamp="1597434914564">
       <screen x="0" y="23" width="1440" height="821" />
     </state>
