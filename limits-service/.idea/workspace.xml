@@ -2,12 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ffbf9c2e-12b8-469e-a7b3-d75306b55f7b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../currency-exchange-service/src/main/java/com/sushant/microservices/currencyexchangeservice/ExchangeValueRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../currency-exchange-service/src/main/resources/data.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../currency-conversion-service/src/main/java/com/sushant/microservices/currencyconversionservice/CurrencyConversionBean.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../currency-conversion-service/src/main/java/com/sushant/microservices/currencyconversionservice/CurrencyConversionController.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../currency-exchange-service/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../currency-exchange-service/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../currency-exchange-service/src/main/java/com/sushant/microservices/currencyexchangeservice/CurrencyExchangeController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../currency-exchange-service/src/main/java/com/sushant/microservices/currencyexchangeservice/CurrencyExchangeController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../currency-exchange-service/src/main/java/com/sushant/microservices/currencyexchangeservice/ExchangeValue.java" beforeDir="false" afterPath="$PROJECT_DIR$/../currency-exchange-service/src/main/java/com/sushant/microservices/currencyexchangeservice/ExchangeValue.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../currency-exchange-service/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../currency-exchange-service/src/main/resources/application.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
