@@ -1,13 +1,27 @@
 package com.sushant.microservices.currencyexchangeservice;
 
+import net.bytebuddy.implementation.bind.annotation.Default;
+import org.h2.value.Value;
+
+import javax.persistence.Column;
+import javax.persistence.Entity;
+import javax.persistence.Id;
 import java.math.BigDecimal;
 
+@Entity
 public class ExchangeValue {
 
+    @Id
     private Long id;
+
+    @Column(name = "currency_from")
     private String from;
+
+    @Column(name = "currency_to")
     private String to;
+
     private BigDecimal conversionMultiple;
+
     private int port;
 
     public ExchangeValue ( ) {
