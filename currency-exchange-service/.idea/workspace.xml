@@ -2,9 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d784d0a2-f8dd-46b6-8330-09cbf4b0ad1b" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../currency-conversion-service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../currency-conversion-service/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../currency-conversion-service/src/main/java/com/sushant/microservices/currencyconversionservice/CurrencyConversionServiceApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/../currency-conversion-service/src/main/java/com/sushant/microservices/currencyconversionservice/CurrencyConversionServiceApplication.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../currency-conversion-service/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../currency-conversion-service/src/main/resources/application.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/sushant/microservices/currencyexchangeservice/CurrencyExchangeServiceApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sushant/microservices/currencyexchangeservice/CurrencyExchangeServiceApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../limits-service/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../limits-service/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../limits-service/limits-service.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../limits-service/limits-service.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../limits-service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../limits-service/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../limits-service/src/main/java/com/sushant/microservices/limitsservice/LimitsServiceApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/../limits-service/src/main/java/com/sushant/microservices/limitsservice/LimitsServiceApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../limits-service/src/main/resources/bootstrap.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../limits-service/src/main/resources/bootstrap.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,6 +34,13 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="1" />
   </component>
@@ -44,8 +60,8 @@
       <recent name="com.sushant.microservices.currencyexchangeservice" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.CurrencyExchangeServiceApplication8002">
-    <configuration name="CurrencyExchangeServiceApplication8000" type="Application" factoryName="Application" temporary="true">
+  <component name="RunManager" selected="Application.CurrencyExchangeServiceApplication8000">
+    <configuration name="CurrencyExchangeServiceApplication8000" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="com.sushant.microservices.currencyexchangeservice.CurrencyExchangeServiceApplication" />
       <module name="currency-exchange-service" />
       <extension name="coverage">
@@ -91,11 +107,6 @@
       <item itemvalue="Application.CurrencyExchangeServiceApplication8002" />
       <item itemvalue="Application.CurrencyExchangeServiceApplication8000" />
     </list>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Application.CurrencyExchangeServiceApplication8000" />
-      </list>
-    </recent_temporary>
   </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
@@ -159,22 +170,26 @@
       <screen x="0" y="23" width="1440" height="821" />
     </state>
     <state width="460" height="466" key="DebuggerActiveHint/0.23.1440.821@0.23.1440.821" timestamp="1597434623117" />
-    <state width="1358" height="194" key="GridCell.Tab.0.bottom" timestamp="1597444024891">
-      <screen x="0" y="23" width="1440" height="821" />
+    <state width="1358" height="194" key="GridCell.Tab.0.bottom" timestamp="1597584479257">
+      <screen x="0" y="23" width="1440" height="826" />
     </state>
     <state width="1358" height="194" key="GridCell.Tab.0.bottom/0.23.1440.821@0.23.1440.821" timestamp="1597444024891" />
-    <state width="1358" height="194" key="GridCell.Tab.0.center" timestamp="1597444024891">
-      <screen x="0" y="23" width="1440" height="821" />
+    <state width="1358" height="194" key="GridCell.Tab.0.bottom/0.23.1440.826@0.23.1440.826" timestamp="1597584479257" />
+    <state width="1358" height="194" key="GridCell.Tab.0.center" timestamp="1597584479256">
+      <screen x="0" y="23" width="1440" height="826" />
     </state>
     <state width="1358" height="194" key="GridCell.Tab.0.center/0.23.1440.821@0.23.1440.821" timestamp="1597444024891" />
-    <state width="1358" height="194" key="GridCell.Tab.0.left" timestamp="1597444024890">
-      <screen x="0" y="23" width="1440" height="821" />
+    <state width="1358" height="194" key="GridCell.Tab.0.center/0.23.1440.826@0.23.1440.826" timestamp="1597584479256" />
+    <state width="1358" height="194" key="GridCell.Tab.0.left" timestamp="1597584479256">
+      <screen x="0" y="23" width="1440" height="826" />
     </state>
     <state width="1358" height="194" key="GridCell.Tab.0.left/0.23.1440.821@0.23.1440.821" timestamp="1597444024890" />
-    <state width="1358" height="194" key="GridCell.Tab.0.right" timestamp="1597444024891">
-      <screen x="0" y="23" width="1440" height="821" />
+    <state width="1358" height="194" key="GridCell.Tab.0.left/0.23.1440.826@0.23.1440.826" timestamp="1597584479256" />
+    <state width="1358" height="194" key="GridCell.Tab.0.right" timestamp="1597584479257">
+      <screen x="0" y="23" width="1440" height="826" />
     </state>
     <state width="1358" height="194" key="GridCell.Tab.0.right/0.23.1440.821@0.23.1440.821" timestamp="1597444024891" />
+    <state width="1358" height="194" key="GridCell.Tab.0.right/0.23.1440.826@0.23.1440.826" timestamp="1597584479257" />
     <state width="1358" height="242" key="GridCell.Tab.1.bottom" timestamp="1597435275439">
       <screen x="0" y="23" width="1440" height="821" />
     </state>
